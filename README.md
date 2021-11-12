@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ABmurra
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI and UX/UI design
 - 🌱 I’m currently learning C/C++, SQL, 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java and C projects
 - 📫 How to reach me ...
 
 <!---
