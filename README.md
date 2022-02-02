@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ABmurra
 - 👀 I’m interested in AI and UX/UI design
-- 🌱 I’m currently learning C/C++, SQL, 
-- 💞️ I’m looking to collaborate on Java and C projects
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python and HTML
+- 💞️ I’m looking to collaborate on Java, C, or Python projects
 
 <!---
 ABmurra/ABmurra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
