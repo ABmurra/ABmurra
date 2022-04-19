@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Annabelle Murray
-- 👀 I’m interested in Software Engineering, AI, and UX/UI design
-- 🌱 I’m currently learning Python and HTML
+- 👀 I’m interested in Software Engineering, AI, computer graphics, and UX/UI design
+- 🌱 I’m currently learning web development langauages: HTML, CSS, and JS
 - 💞️ I’m looking to collaborate on Java, C, or Python projects
 
 <!---
