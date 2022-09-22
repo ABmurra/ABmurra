@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Annabelle Murray
 - 👀 I’m interested in Software Engineering, computer graphics, and UX/UI design
-- 🌱 I’m currently learning web development langauages: HTML, CSS, and JS
-- 💞️ I’m looking to collaborate on Java, C, or Python projects
+- 🌱 I’m currently learning web development langauages: HTML, CSS, JavaScript, and Node.js
+- 💞️ I’m looking to collaborate on Java, Python, and JS projects
 
 <!---
 ABmurra/ABmurra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
