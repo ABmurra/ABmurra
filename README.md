@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Annabelle Murray
+- 👋 Hi, I’m Annabelle
 - 👀 I’m interested in Software Engineering, computer graphics, and UX/UI design
-- 🌱 I’m currently learning web development langauages: HTML, CSS, JavaScript, and Node.js
+- 🌱 I’m currently learning web development langauages: HTML, JavaScript, and Node.js
 - 💞️ I’m looking to collaborate on Java, Python, and JS projects
 
 <!---
